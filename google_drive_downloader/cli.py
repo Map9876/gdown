@@ -19,7 +19,7 @@ import itertools
 import warnings
 
 # 常量定义
-MAX_NUMBER_FILES = 50
+MAX_NUMBER_FILES = 50000
 DEFAULT_PROXY = "https://c.map987.dpdns.org/"
 
 class _GoogleDriveFile(object):
